@@ -1,1 +1,1 @@
-print("Hello Git!, soy María Jurado Ibáñez, cambio después de crear login")
+print("Hello Git!, GitHub remoto!")
